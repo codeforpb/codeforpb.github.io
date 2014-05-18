@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OK Lab Paderborn - Gründung Teil 2"
+title:  "OK Lab Paderborn - Erste Infos Teil 2"
 date:   2014-05-18 20:00:00
 categories: oklabpb
 ---
