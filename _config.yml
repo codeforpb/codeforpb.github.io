@@ -1,9 +1,11 @@
 # Site settings
 title: codeforpb
 email: ljan@mail.upb.de
-description: "Hier werden demnächst Infos über das OK Lab Paderborn zu finden sein."
+description: "Die Infoseite des zukünftigen OK Lab Paderborn"
 baseurl: ""
 url: "http://codeforpb.de"
+username: codeforpb
+
 
 # Build settings
 markdown: kramdown
