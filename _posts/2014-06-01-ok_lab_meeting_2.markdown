@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Treffen #2"
-date:   2014-06-01 17:30:00
+title:  "Treffen #3 & #4"
+date:   2014-06-29 13:00:00
 categories: oklabpb
 ---
 
-Unser zweites Treffen findet am Dienstag, dem 3. Juni 2014 um 19:00 in den Räumen des Radio L'Unico (Universität Paderborn, Raum H1.327 (L'Unico), 
-Warburger Strasse 100, Paderborn) statt. Siehe auch [http://www.meetup.com/codeforpb/events/186432002/](http://www.meetup.com/codeforpb/events/186432002/).
+Das dritte Treffen fand - trotz einiger organisatorischer Schwierigkeiten, letzten Mittwoch statt. 
 
-Edit: Zeit von 20:00 auf 19:00 korrigiert.
+Das nächste Treffen wird am Mittwoch, 2. Juli 2014 um 19:00 wieder entweder in der Fachschaft oder nahe der Fachschaft  Mathematik/Informatik (Raum E1.311, Universität, Warburger Str. 100, 330398 Paderborn) sein. Das meetup findet ihr dazu hier: [http://www.meetup.com/codeforpb/events/191935552/](http://www.meetup.com/codeforpb/events/191935552/)
