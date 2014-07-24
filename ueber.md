@@ -13,6 +13,6 @@ Eine lose Ideensammlung und einige weitere Sachen finden sich in unserem [Etherp
 Interessenten können sich gerne bei <a 
 href="mailto:ljan@mail.upb.de">ljan@mail.upb.de</a> melden oder direkt 
 an unsere [Mailing-Liste](mailto:list@codeforpb.de) schreiben. Ihr könnt 
-euch aber auch direkt [in der 
+euch aber auch direkt [in die 
 Mailing-Liste](lists.codeforpb.de/cgi-bin/mailman/listinfo/list) 
 eintragen.
