@@ -10,4 +10,9 @@ Wir treffen uns alle zwei Wochen. Interessierte können gern auf unseren Treffen
 
 Eine lose Ideensammlung und einige weitere Sachen finden sich in unserem [Etherpad](http://pad.okfn.org/p/codeforpb).
 
-Interessenten können sich gerne bei <a href="mailto:ljan@mail.upb.de">ljan@mail.upb.de</a> melden oder direkt an unsere [Mailing-Liste](mailto:list@codeforpb.de) schreiben.
+Interessenten können sich gerne bei <a 
+href="mailto:ljan@mail.upb.de">ljan@mail.upb.de</a> melden oder direkt 
+an unsere [Mailing-Liste](mailto:list@codeforpb.de) schreiben. Ihr könnt 
+euch aber auch direkt [in der 
+Mailing-Liste](lists.codeforpb.de/cgi-bin/mailman/listinfo/list) 
+eintragen.
