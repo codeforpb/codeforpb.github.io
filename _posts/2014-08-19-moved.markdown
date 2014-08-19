@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Seite umgezogen"
+date:   2014-08-19 20:00:00
+categories: oklabpb
+---
+Damit alle Informationen an einer Stelle zu finden sind, wird der Inhalt dieser Seite in <a href="http://codefor.de/paderborn/">codefor.de</a> integriert. Der Seiteninhalt und der Blog unter <a href="http://codeforpb.github.io/">codeforpb.github.io</a> wird dann nicht mehr gepflegt. 
+
+Die URL <a href="http://codeforpb.de">codeforpb.de</a> wird demnächst auch nur noch auf <a href="http://codefor.de/paderborn/">codefor.de/paderborn</a> weiterleiten. 
